@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Manner of the burning the pope in effigies in London on the 5th of November, 1678 with the manner of carrying him through several streets in progression to Temple-Bar, where at length he was decently burned : also a particular of several bloody massacres done by the papists upon the bodies of English, Irish and French Protestants.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26495</idno><idno type="EEBO-CITATION">17197031</idno>
+  <idno type="VID">206345</idno>
+  <idno type="EEBO-PROQUEST">2248538998</idno>
+  
+            <idno type="STC">Wing M463A</idno>
+            <idno type="OCLC">17197031</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206345)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1619:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Manner of the burning the pope in effigies in London on the 5th of November, 1678 with the manner of carrying him through several streets in progression to Temple-Bar, where at length he was decently burned : also a particular of several bloody massacres done by the papists upon the bodies of English, Irish and French Protestants.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+               <term type="topical_term">Guy Fawkes Day.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206345:1"/>
+            <pb facs="tcp:206345:1"/>
+            <p>The manner of the BURNING THE POPE IN EFFIGIES IN LONDON On the 5th of <hi>November,</hi> 1678.</p>
+            <p>WITH The manner of carrying him through several Streets, in progression to <hi>Temple-Bar,</hi> where at length he was decently burned.</p>
+            <p>ALSO A Particular of several Bloody Massacres done by the <hi>Papists</hi> upon the Bodies of <hi>English, Irish,</hi> and <hi>French</hi> Protestants.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>D. M.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_Guy_Fawkes_Day_celebration">
+            <pb facs="tcp:206345:2"/>
+            <pb n="3" facs="tcp:206345:2"/>
+            <head>The manner of the burning the <hi>Pope</hi> in Effigies in <hi>London,</hi> on the 5<hi>th</hi> of <hi>November,</hi> 1678.</head>
+            <p>IT is a singular Prerogative attributed particular<g ref="char:EOLhyphen"/>ly to our Nation, and seems undissolvably in<g ref="char:EOLhyphen"/>tail'd on our Clime, that our Children, even whilst so young that they can hardly ask for the necessaries of Life, do yet in their sports and deportments divulge as particular a liking to Gene<g ref="char:EOLhyphen"/>rosity and Virtue, as they demonstrate and irrecon<g ref="char:EOLhyphen"/>cileable Odium to Treachery and Deceit, which are their Contraries.</p>
+            <p>This is most apparent by their earnest Celebra<g ref="char:EOLhyphen"/>tion of this <hi>5th day of November;</hi> a day, which the oldest of us all indeed ought not to remember without sending up Vollies of Congratulations to Heaven, from whence we undeservedly receiv'd so extraordinary, and miraculous a deliverance, from that <hi>Hell<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh Gunpowder-Plot</hi> contriv'd in the year 1605 and levelled not only at the dissolution of our <hi>King</hi> and <hi>Peers,</hi> but at the total subv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rsion of <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> and the ruine and destruction of the whole Land.</p>
+            <pb n="4" facs="tcp:206345:3"/>
+            <p> In that Age wherein this Conspiracy was contrived, and designed to have been effect<g ref="char:EOLhyphen"/>ed, it was lookt on as so monstrously impudent, that it would admit of no parallel; All the Trea<g ref="char:EOLhyphen"/>cheries of <hi>Europe</hi> compounded would not come near it; nor all the Inhumanity of the <hi>Turks</hi> and <hi>Pagans</hi> give it but a faint resemblance, so that 'tis no won<g ref="char:EOLhyphen"/>der if the very remembrance of it did sharpen the Mothers Milk, and their Children sucking it in with their sustenance, became instinctively irritated at theirs and their Parents intended Murder.</p>
+            <p>But that danger being over, who could expect the unwelcome repetition of any thing of the same nature by the same Party: But alas, it is little won<g ref="char:EOLhyphen"/>der to see such bad Practices from those, who by principle reckon upon't as meritorious to under<g ref="char:EOLhyphen"/>take them.</p>
+            <p>Why should not even our Youth then espouse a noble Indignation at the injustice and by their resent<g ref="char:EOLhyphen"/>ments on the Effigy, divulge a deserved contempt of the Original.</p>
+            <p>Which to effect, on this present Fifth Day of <hi>November,</hi> they caused several of the said Effigies, or Resemblances of the <hi>Pope,</hi> to be made; some of them displaying
+<pb n="5" facs="tcp:206345:3"/>him in one posture, and some in another; but all of them were followed with lowd and numerous acclamations to their several places of Execution.</p>
+            <p>He of them who might best pretend to the priority in point of Workmanship and invention, was raised on a small Pavillion, born like Pageants on Mens Backs, with a large Cross filled with Lamps, which in much majesty stalkt before him, whilst the Effigies, curiously adorned with his Triple Crown, Neck-lace of Beads, and all his other superstitious Accouterments, came very sump<g ref="char:EOLhyphen"/>tuously behind, in procession from the <hi>Royal-Exchange</hi> to <hi>Temple-Bar,</hi> and visiting most Streets, Courts, and Alleys as he walkt a<g ref="char:EOLhyphen"/>long.</p>
+            <p>So frollick was he, that he danced before the Flames, and when he came near <hi>Temple-Bar (the place of Execution)</hi> cut a Caper into a great Bonefire, provided on purpose to entertain him, whose abominable civilities
+<pb n="6" facs="tcp:206345:4"/>had been so great, as heretofore to provide such large ones for others.</p>
+            <p>In fine after this feigned <hi>Pope</hi> had been suf<g ref="char:EOLhyphen"/>ficiently exposed to the Vulgar Reflections, he was hurl'd, Canopy, Triple Crown, Beads, Crucifix and all into the Bonefire near <hi>Chance<g ref="char:EOLhyphen"/>ry-Lane</hi> end, in <hi>Fleet-street,</hi> where a world of People celebrated his fall with a general <hi>Ʋti<g ref="char:EOLhyphen"/>nam,</hi> that all his Majesties Enemies, or the per<g ref="char:EOLhyphen"/>verters of the Protestant Religion, or <hi>English</hi> Government, may ere long be reduced to some such Fate.</p>
+         </div>
+         <div type="summary_of_papist_cruelty_towards_Protestants">
+            <pb n="7" facs="tcp:206345:4"/>
+            <head>A brief Account of the Papistical Massacres and Cruelties towards Protestants.</head>
+            <p>THE first we shall insert, was done about 100 years since in <hi>Paris;</hi> in which Massacre so many thousand Protestants fell, and with them that famous Commander <hi>Col<g ref="char:EOLhyphen"/>ligny,</hi> whom the <hi>Roman</hi> Chronicler, because he would pen that story to the Life, has not omitted to tell Posterity, how that Noble Ad<g ref="char:EOLhyphen"/>miral was thrown out of a Window into the Street, to be used as we do Cats, and Dogs, in <hi>Protestant</hi> Countreys; but good enough for an <hi>Heretick,</hi> whom the worse they use, the better they are.</p>
+            <p>The next Cruelty, and no less barbarous than the former, was the <hi>Irish</hi> Massacre in 1640. wherein were aboce 300 thousand Protestants murdered; several that escaped
+<pb n="8" facs="tcp:206345:5"/>with their Lives, were yet cruelly dismem<g ref="char:EOLhyphen"/>bred, some of their Tongues, others of their Hands and Privities, <hi>&amp;c.</hi> and the rest driven into Bogs and Wildernesses.</p>
+            <p>The last of their Inhumanities we shall at present insert, shall be that never to be for<g ref="char:EOLhyphen"/>got Murder of <hi>Henry</hi> the Third and <hi>Henry</hi> the Fourth. The first whereof because he would not give his consent to Murder all the <hi>Hugo<g ref="char:EOLhyphen"/>nots</hi> or <hi>Protestants</hi> in his Kingdom, though himself was a <hi>Papist,</hi> yet for the Reason a<g ref="char:EOLhyphen"/>foresaid they cruelly murdered him; And the latter because inclining to the like lenity, though their Convert, they serv'd in the same kind.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206345:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
